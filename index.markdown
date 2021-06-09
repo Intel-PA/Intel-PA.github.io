@@ -5,7 +5,7 @@ title: Intel-PA Home
 
 # Welcome to Intel-PA
 
-  This is a landing page that is meant to provide an overview of the project and where to find various resources that pertain to it.
+This is a landing page that is meant to provide an overview of the project and where to find various resources that pertain to it.
 
 ### Modules and Ownership
 
@@ -15,14 +15,21 @@ title: Intel-PA Home
 - Natural language generation module - Xiaoxiao Liu
 - Speech generation module - Kavi Jayathunge
 
-### Meeting minutes
-A record of the meetings held can be found [here.](/minutes/)
-
 ### Static files
-Files generated over the course of the work - graphs, images, reports etc can be found [here.](/static/)
+- Files generated over the course of the work - graphs, images, reports etc can be found [here.](/static/)
+- A record of the meetings held can be found [here.](/minutes/)
 
 ### Literature
-This is a repository of academic writing that has been read so far, along with comments about its relevance to the project. (Maybe link to a Mendeley library here?)
+A a repository of academic writing that has been read so far can be found [here.](/literature/)
   
 ### Datasets
-A collection of relevant datasets with appropriate statistics (size, is it noisy etc). Link to a google drive.
+Audio Datasets:
+- [LJ-Speech](https://keithito.com/LJ-Speech-Dataset/)
+- [Libri-Speech](https://www.openslr.org/12)
+
+Text datasets:
+- TODO
+
+Image datasets:
+- TODO
+
