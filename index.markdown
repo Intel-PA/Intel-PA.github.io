@@ -21,7 +21,7 @@ This is a landing page that is meant to provide an overview of the project and w
 - Ruibin: Figuring out how to turn complex natural language symptom descriptions to simple keys for our decision tree
 - Kavi: None 
 
-<img src="/static/ChatbotV1-gantt_chart.png" alt="Assigned tasks" width="50%"/>
+<img src="/static/ChatbotV1-gantt_chart.png" alt="Assigned tasks" width="100%"/>
 
 
 ### Static files
