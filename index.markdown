@@ -35,6 +35,7 @@ A a repository of academic writing that has been read so far can be found [here.
 Audio Datasets:
 - [LJ-Speech](https://keithito.com/LJ-Speech-Dataset/)
 - [Libri-Speech](https://www.openslr.org/12)
+- [Common Voice Corpus 1](https://commonvoice.mozilla.org/en/datasets)
 
 Text datasets:
 - TODO
