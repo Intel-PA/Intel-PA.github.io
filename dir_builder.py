@@ -50,7 +50,7 @@ def make_listing(text, link, is_dir=False):
 
 def get_filenames_links(directory):
 	d = [ (p.split('/')[-1], p) for p in  glob.glob(f"{directory}/*")]
-	return d
+	return sorted(d, key=lambda x: x[0])
 
 def markdown_to_jekyll_page(filepath):
 	filepath_l = filepath.split('/')
