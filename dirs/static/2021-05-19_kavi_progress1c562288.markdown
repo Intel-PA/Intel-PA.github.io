@@ -1,7 +1,7 @@
 ---
 layout: page
-title: kavi_19_05_2021_progress_report
-permalink: /static/kavi/progress/kavi_19_05_2021_progress_report/
+title: 2021-05-19_kavi_progress
+permalink: /static/kavi/progress/2021-05-19_kavi_progress/
 ---
 
 [**<-back**](/static/kavi/progress)  
