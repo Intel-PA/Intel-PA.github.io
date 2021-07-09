@@ -20,6 +20,10 @@ permalink: /static/ruibin/progress/[2021-07-09]-ruibin-report/
 
         another is the commercially available software package, namely decision tree and regression(DTREG)
 
+        For the paper named "Decision tree classifiers for automated medical diagnosis", the data can be collected from [link](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
+
+        For the paper named "", the data is obtained from 2007 until 2012 from the Groningen asthma/COPD service for primary care (the Netherlands)
+
 
     * our problem is a search problem, not to build a decision tree, because we already have a decision tree (the rule-based decision tree).
 
