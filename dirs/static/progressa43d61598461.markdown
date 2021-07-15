@@ -10,3 +10,4 @@ permalink: /static/ruibin/progress/
 [**:page_facing_up: [2021-05-20]-ruibin-report.md**]([2021-05-20]-ruibin-report) ([download]([2021-05-20]-ruibin-report.md))  
 [**:page_facing_up: [2021-06-08]-ruibin-report.md**]([2021-06-08]-ruibin-report) ([download]([2021-06-08]-ruibin-report.md))  
 [**:page_facing_up: [2021-06-23]-ruibin-report.md**]([2021-06-23]-ruibin-report) ([download]([2021-06-23]-ruibin-report.md))  
+[**:page_facing_up: [2021-07-09]-ruibin-report.md**]([2021-07-09]-ruibin-report) ([download]([2021-07-09]-ruibin-report.md))  
