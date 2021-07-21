@@ -1,10 +1,12 @@
----
-layout: page
-title: Task Assignment Table
-permalink: /static/Task Assignment Table/
----
+# [2021-07-15] Task Assignment
 
-[**<-back**](/static)  
+| Members | Tasks |
+| :----:| :----: |
+| Kavi | Implementing user interface and decision making algorithm for demo| 
+| Ruibin | Implementing system to extract keywords from user input (Natural language understanding)|
+| Xiaoxiao | Implementing system to extract keywords from user input (Natural language understanding) |
+| Jiajun | None |
+
 
 # [2021-06-28] Task Assignment
 
