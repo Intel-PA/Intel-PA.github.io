@@ -16,9 +16,9 @@ This is a landing page that is meant to provide an overview of the project and w
 - Speech generation module - Kavi Jayathunge
 
 #### Tasks assigned currently:
-- Kavi: Implementing user interface and decision making algorithm for demo 
-- Ruibin: Implementing system to extract keywords from user input (Natural language understanding)
-- Xiaoxiao: Implementing system to extract keywords from user input (Natural language understanding) 
+- Kavi: None 
+- Ruibin: None
+- Xiaoxiao: None 
 - Jiajun: None
 
 Click [here](/static/task_assignment_table.md) for a record of previous tasks
