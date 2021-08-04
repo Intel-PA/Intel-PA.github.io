@@ -16,11 +16,12 @@ This is a landing page that is meant to provide an overview of the project and w
 - Speech generation module - Kavi Jayathunge
 
 #### Tasks assigned currently:
-- Xiaoxiao: Looking for examples of a standard medical decision tree 
-- Jiajun: Working on bulding a rudimentary decision tree
-- Ruibin: Figuring out how to turn complex natural language symptom descriptions to simple keys for our decision tree
 - Kavi: None 
+- Ruibin: None
+- Xiaoxiao: None 
+- Jiajun: None
 
+Click [here](/static/task_assignment_table.md) for a record of previous tasks
 <img src="/static/ChatbotV1-gantt_chart.png" alt="Assigned tasks" width="100%"/>
 
 
