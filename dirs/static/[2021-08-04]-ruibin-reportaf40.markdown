@@ -10,14 +10,15 @@ permalink: /static/ruibin/progress/[2021-08-04]-ruibin-report/
 
 1. reading papers about knowledge graph and medical knowlege graph
     * knowldege graph is widely used in the medical field
+    * most of the recent work on the medical knowlege graph focuses on automatically building the medical knowledge, but the dataset is seldomly shared  
 
 2. two clinical knowledge graph
-    * English one
+    * clinical knowledge graph on proteomics
         * links (https://ckg.readthedocs.io/en/latest/INTRO.html)
     * Chinese Medical Knowlege graph 
         * links (http://cmekg.pcl.ac.cn/)
 
-3. deep throughts for our project
+
     
 
 ## what I will do next
