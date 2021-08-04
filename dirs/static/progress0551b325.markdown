@@ -15,3 +15,4 @@ permalink: /static/kavi/progress/
 [**:page_facing_up: 2021-06-22_kavi_progress.md**](2021-06-22_kavi_progress) ([download](2021-06-22_kavi_progress.md))  
 [**:page_facing_up: 2021-07-08_kavi_progress.md**](2021-07-08_kavi_progress) ([download](2021-07-08_kavi_progress.md))  
 [**:page_facing_up: 2021-07-21_kavi_progress.md**](2021-07-21_kavi_progress) ([download](2021-07-21_kavi_progress.md))  
+[**:page_facing_up: 2021-08-04_kavi_progress.md**](2021-08-04_kavi_progress) ([download](2021-08-04_kavi_progress.md))  
