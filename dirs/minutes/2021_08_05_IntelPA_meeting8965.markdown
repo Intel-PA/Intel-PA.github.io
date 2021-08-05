@@ -20,7 +20,7 @@ next meeting: 04/08/2021, 13:00 - 14:00
 ### Diagnosis module
 - **Need more data** - biggest concern at the moment
 - Edges of the graph need to be weighted by frequency of the symptom's appearance in dataset
-- No. of conversational turns taken to reach diagnosis should be reduced
+- No. of conversational turns taken to reach diagnosis should be reduced. This might be done by having the system ask about several symptoms at once (<=3) and extracting the user's natural language response to figure out which symptoms they have.
 
 ### Natural Language
 - Use more varied templates - maybe 5 or 6 for now
