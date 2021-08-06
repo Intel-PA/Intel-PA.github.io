@@ -1,5 +1,4 @@
 # Minutes of Intel-PA group meeting (05/08/2021, 13:00 - 14:00)
-next meeting: 04/08/2021, 13:00 - 14:00
 
 ## Shortcomings of existing modules
 
