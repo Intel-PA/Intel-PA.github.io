@@ -6,8 +6,9 @@ permalink: /static/Datasets Description/
 
 [**<-back**](/static)  
 
-# Datasets Description
+# Intel-PA Data Resource
 
+## Data Collection
 ### 1. Lybrate Medical QA Data Collection
 
 * Access: [lybrate_QAs copy.json](https://drive.google.com/file/d/12biAtGQN_ciMUx7mNGUS0Qzf3uLv2zFt/view?usp=sharing)
@@ -28,3 +29,11 @@ permalink: /static/Datasets Description/
 * Format: JSON file
 * Content: Disease and relevent symptoms
 * Source: [NHS website](https://www.nhs.uk/)
+
+## Other Medical Data Resources
+
+* [nhs Wales Glossary](https://phw.nhs.wales/services-and-teams/observatory/resources/glossary/#C): A glossary and a description of the symptoms collected by nhs.wales
+
+* [EHR STAR Browser](https://ehr.wangqiru.com/): A website includes EHR literature and datasets described in the state-of-the-art (STAR) report, EHR STAR: The State-of-the-art in Interactive EHR Visualization.
+
+* [AMBOSS](https://www.amboss.com/us/knowledge/AMBOSS_fact_sheets/): A website contains extensive medical knowledge resource for sudents, researchers, medical researchers in medical area.
