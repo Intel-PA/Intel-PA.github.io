@@ -16,3 +16,4 @@ permalink: /static/xiaoxiao/Progress Report/
 [**:page_facing_up: 20210622_xiaoxiao_progress.pdf**](20210622_xiaoxiao_progress.pdf)  
 [**:page_facing_up: 20210721_xiaoxiao_progress.pdf**](20210721_xiaoxiao_progress.pdf)  
 [**:page_facing_up: 20210804_xiaoxiao_progress.pdf**](20210804_xiaoxiao_progress.pdf)  
+[**:page_facing_up: 20210825_xiaoxiao_progress.pdf**](20210825_xiaoxiao_progress.pdf)  
