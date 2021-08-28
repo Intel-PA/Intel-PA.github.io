@@ -35,27 +35,27 @@ permalink: /static/Datasets_Description/
 
 * Access: [LJ-Speech](https://keithito.com/LJ-Speech-Dataset/)
 * Format: .txt, .wav
-* Content: Transcribed audio recordings of passages read from various books. Single speaker.
+* Content: 24 hours of transcribed audio recordings of passages read from various books. Single speaker.
 
 ### 2. Libri-Speech
 
 * Access: [Libri-Speech](https://www.openslr.org/12)
 * Format: .wav, .txt 
-* Content: Large-scale (1000 hours) corpus of read English speech. Multi-speaker.
+* Content: 1000 hours of read English speech. Multi-speaker.
 * Source: [Librispeech publication](http://www.danielpovey.com/files/2015_icassp_librispeech.pdf)
 
 ### 3. Common Voice Corpus 1
 
 * Access: [Common Voice Corpus 1](https://commonvoice.mozilla.org/en/datasets)
 * Format: .mp3, .tsv
-* Content: 803 hours of transcribed audio
+* Content: 803 hours of transcribed audio. Multi-speaker.
 
 ## Multimodal Data
 ### 1. IEMOCAP
 
 * Access: No public link, currently on dl2.staff.bournemouth.ac.uk:/intelPA/datasets - please ask Kavi for access 
 * Format: .avi, .wav, .txt
-* Content: Motion capture data of faces + 12 hours of video and transcribed audio recordings of conversations + labelled emotional states. 
+* Content: Motion capture data of faces + 12 hours of video and transcribed audio recordings of conversations + labelled emotional states.  Multi-speaker.
 * Source: [IEMOCAP publication](https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf)
 
 ## Other Medical Data Resources
