@@ -17,7 +17,7 @@ This is a landing page that is meant to provide an overview of the project and w
 - Speech generation module - Kavi Jayathunge
 <img src="/static/high_level_flow_diagram.png" alt="Hi-level diagram" width="100%"/>
 
-#### Tasks assigned currently:
+### Tasks assigned currently:
 - Kavi: applying weighting to the edges of the demo graph and updating the scoring system to make use of this 
 - Ruibin: researching papers in order to find out how to extract attributes from a symptom phrase 
 - Xiaoxiao: looking through the datasets in the NHS data catalogue to see if we can use one or more of them in our diagnosis module 
