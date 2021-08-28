@@ -40,13 +40,14 @@
 
 * Access: [Common Voice Corpus 1](https://commonvoice.mozilla.org/en/datasets)
 * Format: .mp3, .tsv
-* Content: Disease and relevent symptoms
+* Content: 803 hours of transcribed audio
 
-### 4. IEMOCAP
+## Multimodal Data
+### 1. IEMOCAP
 
 * Access: No public link, currently on dl2.staff.bournemouth.ac.uk:/intelPA/datasets - please ask Kavi for access 
 * Format: .avi, .wav, .txt
-* Content: Motion capture data of faces, transcribed audio recordings of conversations, and labelled emotional states. 
+* Content: Motion capture data of faces + 12 hours of video and transcribed audio recordings of conversations + labelled emotional states. 
 * Source: [IEMOCAP publication](https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf)
 
 ## Other Medical Data Resources
