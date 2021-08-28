@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Datasets Description
-permalink: /static/Datasets Description/
+title: Datasets_Description
+permalink: /static/Datasets_Description/
 ---
 
 [**<-back**](/static)  
 
 # Intel-PA Data Resource
 
-## Data Collection
+## Text Data
 ### 1. Lybrate Medical QA Data Collection
 
 * Access: [lybrate_QAs copy.json](https://drive.google.com/file/d/12biAtGQN_ciMUx7mNGUS0Qzf3uLv2zFt/view?usp=sharing)
@@ -29,6 +29,33 @@ permalink: /static/Datasets Description/
 * Format: JSON file
 * Content: Disease and relevent symptoms
 * Source: [NHS website](https://www.nhs.uk/)
+
+## Audio Data
+### 1. LJ-Speech
+
+* Access: [LJ-Speech](https://keithito.com/LJ-Speech-Dataset/)
+* Format: .txt, .wav
+* Content: Transcribed audio recordings of passages read from various books. Single speaker.
+
+### 2. Libri-Speech
+
+* Access: [Libri-Speech](https://www.openslr.org/12)
+* Format: .wav, .txt 
+* Content: Large-scale (1000 hours) corpus of read English speech. Multi-speaker.
+* Source: [Librispeech publication](http://www.danielpovey.com/files/2015_icassp_librispeech.pdf)
+
+### 3. Common Voice Corpus 1
+
+* Access: [Common Voice Corpus 1](https://commonvoice.mozilla.org/en/datasets)
+* Format: .mp3, .tsv
+* Content: Disease and relevent symptoms
+
+### 4. IEMOCAP
+
+* Access: No public link, currently on dl2.staff.bournemouth.ac.uk:/intelPA/datasets - please ask Kavi for access 
+* Format: .avi, .wav, .txt
+* Content: Motion capture data of faces, transcribed audio recordings of conversations, and labelled emotional states. 
+* Source: [IEMOCAP publication](https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf)
 
 ## Other Medical Data Resources
 
