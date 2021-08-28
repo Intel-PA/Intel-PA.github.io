@@ -12,7 +12,7 @@ permalink: /static/kavi/progress/2021-08-25_kavi_progress/
 
 - Updated demo code so that graph edges are weighted
 - Helped Prof. Southern set up a new machine(RTX A6000 48GB) to use as a Deep learning rig - Ask to create an account, and you can then access it via username@dl2.staff.bournemouth.ac.uk
-- Found an interesting dataset: IEMOCAP - contains 12 hourse of audio and transcribed video data. Consists of conversations between people and emotion labels for these conversations. It is avaialable at dl2.staff.bournemouth.ac.uk under /intelPA/datasets
+- Found an interesting dataset: [IEMOCAP](https://sail.usc.edu/iemocap/index.html) - contains 12 hours of audio and transcribed video data. Consists of conversations between people and emotion labels for these conversations. It is avaialable at dl2.staff.bournemouth.ac.uk under /intelPA/datasets
 - Joined FutureNHS forum - AIVirtualHub
 
 

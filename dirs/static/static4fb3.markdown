@@ -7,8 +7,8 @@ permalink: /static/
 # Directory listing for /static
 [**<-back**](/)  
 [**:page_facing_up: ChatbotV1-gantt_chart.png**](ChatbotV1-gantt_chart.png)  
-[**:page_facing_up: Datasets Description.md**](Datasets Description) ([download](Datasets Description.md))  
-[**:page_facing_up: Work Packages Table.xlsx**](Work Packages Table.xlsx)  
+[**:page_facing_up: Datasets_Description.md**](Datasets_Description) ([download](Datasets_Description.md))  
+[**:page_facing_up: Work_Packages_Table.xlsx**](Work_Packages_Table.xlsx)  
 [**:page_facing_up: high_level_flow_diagram.png**](high_level_flow_diagram.png)  
 [**:file_folder: jiajun/**](/static/jiajun)  
 [**:file_folder: kavi/**](/static/kavi)  
