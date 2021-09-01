@@ -26,3 +26,13 @@
 | Ruibin | researching papers in order to find out how to extract attributes from a symptom phrase |
 | Xiaoxiao | looking through the datasets in the NHS data catalogue to see if we can use one or more of them in our diagnosis module |
 | Jiajun | integrating ASR module into demo |
+
+
+# [2021-09-01] Task Assignment
+
+| Members | Tasks |
+| :----:| :----: |
+| Kavi | adding a naive implentation of turn shortening + researching a more sophisticated method of doing so  | 
+| Ruibin | applying sentiment analysis to user input |
+| Xiaoxiao | scraping data from the AMBOSS medical knowledge library  |
+| Jiajun | "layman-izing" the final output of the chatbot so it can be more easily understood by people without technical medical knowledge |
