@@ -18,10 +18,10 @@ This is a landing page that is meant to provide an overview of the project and w
 <img src="/static/high_level_flow_diagram.png" alt="Hi-level diagram" width="100%"/>
 
 ### Tasks assigned currently:
-- Kavi: applying weighting to the edges of the demo graph and updating the scoring system to make use of this 
-- Ruibin: researching papers in order to find out how to extract attributes from a symptom phrase 
-- Xiaoxiao: looking through the datasets in the NHS data catalogue to see if we can use one or more of them in our diagnosis module 
-- Jiajun: integrating ASR module into demo
+- Kavi: adding a naive implentation of turn shortening + researching a more sophisticated method of doing so 
+- Ruibin: applying sentiment analysis to user input
+- Xiaoxiao: scraping data from the AMBOSS medical knowledge library 
+- Jiajun: "layman-izing" the final output of the chatbot so it can be more easily understood by people without technical medical knowledge
 
 Click [here](/static/task_assignment_table.md) for a record of previous tasks
 <img src="/static/ChatbotV1-gantt_chart.png" alt="Assigned tasks" width="100%"/>
