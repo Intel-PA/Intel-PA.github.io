@@ -15,3 +15,4 @@ permalink: /static/ruibin/progress/
 [**:page_facing_up: [2021-07-21]-ruibin-report.md**]([2021-07-21]-ruibin-report) ([download]([2021-07-21]-ruibin-report.md))  
 [**:page_facing_up: [2021-08-04]-ruibin-report.md**]([2021-08-04]-ruibin-report) ([download]([2021-08-04]-ruibin-report.md))  
 [**:page_facing_up: [2021-08-25]-ruibin-report .md**]([2021-08-25]-ruibin-report ) ([download]([2021-08-25]-ruibin-report .md))  
+[**:page_facing_up: remote virtual production survey.md**](remote virtual production survey) ([download](remote virtual production survey.md))  
