@@ -17,3 +17,4 @@ permalink: /static/jiajun/
 [**:page_facing_up: 2021-07-21-jiajun_progress.md**](2021-07-21-jiajun_progress) ([download](2021-07-21-jiajun_progress.md))  
 [**:page_facing_up: 2021-08-03-jiajun_progress.md**](2021-08-03-jiajun_progress) ([download](2021-08-03-jiajun_progress.md))  
 [**:page_facing_up: 2021-08-25-jiajun_progress.md**](2021-08-25-jiajun_progress) ([download](2021-08-25-jiajun_progress.md))  
+[**:page_facing_up: 2021-09-16-jiajun_progress.md**](2021-09-16-jiajun_progress) ([download](2021-09-16-jiajun_progress.md))  
