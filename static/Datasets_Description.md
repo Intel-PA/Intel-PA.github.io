@@ -1,4 +1,4 @@
-# Intel-PA Data Resource
+# [Intel-PA Data Resource](https://drive.google.com/drive/folders/1tRyAFnQcKjgIXQS9tEsGcFrXRyku92hP?usp=sharing)
 
 ## Text Data
 ### 1. Lybrate Medical QA Data Collection
@@ -21,6 +21,14 @@
 * Format: JSON file
 * Content: Disease and relevent symptoms
 * Source: [NHS website](https://www.nhs.uk/)
+
+### 4. AMBOSS Data
+* Access: [AMBOSS_disease_data.json](https://drive.google.com/file/d/1viZq98nelLf6FbiLYCNY-PldBjbmSd9y/view?usp=sharing)
+* Format: JSON file
+* Content: amboss.com is  website contains extensive medical knowledge resource for sudents, researchers, medical researchers in medical area.
+* Source:[https://www.amboss.com/us/knowledge/index]
+
+
 
 ## Audio Data
 ### 1. LJ-Speech
@@ -56,4 +64,3 @@
 
 * [EHR STAR Browser](https://ehr.wangqiru.com/): A website includes EHR literature and datasets described in the state-of-the-art (STAR) report, EHR STAR: The State-of-the-art in Interactive EHR Visualization.
 
-* [AMBOSS](https://www.amboss.com/us/knowledge/AMBOSS_fact_sheets/): A website contains extensive medical knowledge resource for sudents, researchers, medical researchers in medical area.

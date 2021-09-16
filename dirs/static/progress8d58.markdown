@@ -7,6 +7,7 @@ permalink: /static/ruibin/progress/
 # Directory listing for /static/ruibin/progress
 [**<-back**](/static/ruibin)  
 [**:page_facing_up: A Survey of the UK Film.md**](A Survey of the UK Film) ([download](A Survey of the UK Film.md))  
+[**:page_facing_up: Remote Virtual Production Survey.md**](Remote Virtual Production Survey) ([download](Remote Virtual Production Survey.md))  
 [**:page_facing_up: [2021-05-10]-ruibin-report.md**]([2021-05-10]-ruibin-report) ([download]([2021-05-10]-ruibin-report.md))  
 [**:page_facing_up: [2021-05-20]-ruibin-report.md**]([2021-05-20]-ruibin-report) ([download]([2021-05-20]-ruibin-report.md))  
 [**:page_facing_up: [2021-06-08]-ruibin-report.md**]([2021-06-08]-ruibin-report) ([download]([2021-06-08]-ruibin-report.md))  
@@ -15,4 +16,4 @@ permalink: /static/ruibin/progress/
 [**:page_facing_up: [2021-07-21]-ruibin-report.md**]([2021-07-21]-ruibin-report) ([download]([2021-07-21]-ruibin-report.md))  
 [**:page_facing_up: [2021-08-04]-ruibin-report.md**]([2021-08-04]-ruibin-report) ([download]([2021-08-04]-ruibin-report.md))  
 [**:page_facing_up: [2021-08-25]-ruibin-report .md**]([2021-08-25]-ruibin-report ) ([download]([2021-08-25]-ruibin-report .md))  
-[**:page_facing_up: remote virtual production survey.md**](remote virtual production survey) ([download](remote virtual production survey.md))  
+[**:page_facing_up: [2021-09-16]-ruibin-report.md**]([2021-09-16]-ruibin-report) ([download]([2021-09-16]-ruibin-report.md))  
