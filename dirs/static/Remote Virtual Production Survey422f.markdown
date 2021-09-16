@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Remote Virtual Production Survey (2)
-permalink: /static/ruibin/progress/Remote Virtual Production Survey (2)/
+title: Remote Virtual Production Survey
+permalink: /static/ruibin/progress/Remote Virtual Production Survey/
 ---
 
 [**<-back**](/static/ruibin/progress)  
