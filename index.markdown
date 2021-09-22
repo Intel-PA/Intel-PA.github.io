@@ -18,10 +18,10 @@ This is a landing page that is meant to provide an overview of the project and w
 <img src="/static/high_level_flow_diagram.png" alt="Hi-level diagram" width="100%"/>
 
 ### Tasks assigned currently:
-- Kavi: adding a naive implentation of turn shortening + researching a more sophisticated method of doing so 
-- Ruibin: applying sentiment analysis to user input
-- Xiaoxiao: scraping data from the AMBOSS medical knowledge library 
-- Jiajun: "layman-izing" the final output of the chatbot so it can be more easily understood by people without technical medical knowledge
+- Kavi: creating a simple GUI for presentation to medical professional
+- Ruibin: integrating previous work on sentiment analysis to intelPA
+- Xiaoxiao: following extra links in the AMBOSS medical knowledge library
+- Jiajun: continue "layman-izing" and help with GUI
 
 Click [here](/static/task_assignment_table.md) for a record of previous tasks
 <img src="/static/ChatbotV1-gantt_chart.png" alt="Assigned tasks" width="100%"/>
