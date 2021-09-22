@@ -44,3 +44,13 @@ permalink: /static/task_assignment_table/
 | Ruibin | applying sentiment analysis to user input |
 | Xiaoxiao | scraping data from the AMBOSS medical knowledge library  |
 | Jiajun | "layman-izing" the final output of the chatbot so it can be more easily understood by people without technical medical knowledge |
+
+
+# [2021-09-21] Task Assignment
+
+| Members | Tasks |
+| :----:| :----: |
+| Kavi | creating a simple GUI for presentation to medical professional  | 
+| Ruibin | integrating previous work on sentiment analysis to intelPA |
+| Xiaoxiao | following extra links in the AMBOSS medical knowledge library  |
+| Jiajun | continue "layman-izing" and help with GUI |
