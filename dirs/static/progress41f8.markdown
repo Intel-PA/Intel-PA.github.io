@@ -17,3 +17,4 @@ permalink: /static/ruibin/progress/
 [**:page_facing_up: [2021-08-04]-ruibin-report.md**]([2021-08-04]-ruibin-report) ([download]([2021-08-04]-ruibin-report.md))  
 [**:page_facing_up: [2021-08-25]-ruibin-report .md**]([2021-08-25]-ruibin-report ) ([download]([2021-08-25]-ruibin-report .md))  
 [**:page_facing_up: [2021-09-16]-ruibin-report.md**]([2021-09-16]-ruibin-report) ([download]([2021-09-16]-ruibin-report.md))  
+[**:page_facing_up: [2021-10-05]-ruibin-report.md**]([2021-10-05]-ruibin-report) ([download]([2021-10-05]-ruibin-report.md))  
