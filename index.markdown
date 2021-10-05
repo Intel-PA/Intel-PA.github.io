@@ -8,9 +8,9 @@ title: Intel-PA Home
 <details>
 <summary>Progress Reports</summary>
 
-+ [Kavi](/static/kavi/progress)
-+ [Jiajun](/static/jiajun)
-+ [Ruibin](/static/ruibin/progress)
++ [Kavi](/static/kavi/progress) 
++ [Jiajun](/static/jiajun) 
++ [Ruibin](/static/ruibin/progress) 
 
 </details>	     
 
