@@ -7,9 +7,9 @@ title: Intel-PA Home
 ## [Datasets](/static/Datasets_Description.md)	|	[Meeting minutes](/minutes/)	|	[Literature](/literature/)	|	[Static files](/static/)
 <details>
 <summary>Progress Reports</summary>
-
-[Kavi](/static/kavi/progress) 
-
+<ul>
+<li>[Kavi](/static/kavi/progress)</li>l
+</ul>
 </details>	     
 
 
