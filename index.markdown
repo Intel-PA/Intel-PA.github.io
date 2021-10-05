@@ -4,11 +4,12 @@ title: Intel-PA Home
 ---
 
 # Welcome to Intel-PA
-## [Datasets](/static/Datasets_Description.md)	|	[Meeting minutes](/minutes/)	|	[Literature](/literature/)	|	[Static files](/static/)
-<details>
-<summary>Progress Reports</summary>
+## [Datasets](/static/Datasets_Description.md)	|	[Meeting minutes](/minutes/)	|	[Literature](/literature/)	|	[Static files](/static/) 
 
-hello [Kavi](/static/kavi/progress)
+<details>
+<summary>Progress Reports</summary> 
+
+1. [Kavi](/static/kavi/progress)
 
 </details>	     
 
