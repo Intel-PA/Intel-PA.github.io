@@ -8,9 +8,9 @@ title: Intel-PA Home
 
 <details>
 <summary>Progress Reports</summary> 
-
-1. [Kavi](/static/kavi/progress)
-
+<p>
+[Kavi](/static/kavi/progress)
+</p>
 </details>	     
 
 
