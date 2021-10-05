@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Progress Reports
+permalink: /progress/
 ---
 
 # Progress reports
