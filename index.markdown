@@ -6,12 +6,13 @@ title: Intel-PA Home
 # Welcome to Intel-PA
 ## [Datasets](/static/Datasets_Description.md)	|	[Meeting minutes](/minutes/)	|	[Literature](/literature/)	|	[Static files](/static/)
 <details>
-<summary>Progress Reports</summary><br>
+<summary>Progress Reports</summary>
 
 + [Kavi](/static/kavi/progress)
 + [Jiajun](/static/jiajun)
 + [Xiaoxiao](/static/xiaoxiao/Progress\ Report)
 + [Ruibin](/static/ruibin/progress)
+
 </details>	     
 
 This is a landing page that is meant to provide an overview of the project and where to find various resources that pertain to it.
