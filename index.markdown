@@ -8,12 +8,12 @@ title: Intel-PA Home
 <details>
 <summary>Progress Reports</summary>
 
-+ [Kavi](/static/kavi/progress) 
-+ [Jiajun](/static/jiajun) 
-+ [Ruibin](/static/ruibin/progress) 
 
 </details>	     
 
++ [Kavi](/static/kavi/progress) 
++ [Jiajun](/static/jiajun) 
++ [Ruibin](/static/ruibin/progress) 
 This is a landing page that is meant to provide an overview of the project and where to find various resources that pertain to it.
 
 ### Modules and Ownership
