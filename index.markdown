@@ -4,14 +4,7 @@ title: Intel-PA Home
 ---
 
 # Welcome to Intel-PA
-## [Datasets](/static/Datasets_Description.md)	|	[Meeting minutes](/minutes/)	|	[Literature](/literature/)	|	[Static files](/static/) 
-
-<details>
-<summary>Progress Reports</summary> 
-<p>
-[Kavi](/static/kavi/progress)
-</p>
-</details>	     
+## [Datasets](/static/Datasets_Description.md)	|	[Meeting minutes](/minutes/)	|	[Literature](/literature/)	|	[Static files](/static/)	|	[Progress reports](/progress/)
 
 
 This is a landing page that is meant to provide an overview of the project and where to find various resources that pertain to it.
