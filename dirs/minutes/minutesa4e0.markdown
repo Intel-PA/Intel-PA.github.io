@@ -16,3 +16,4 @@ permalink: /minutes/
 [**:page_facing_up: 2021_08_05_IntelPA_meeting.md**](2021_08_05_IntelPA_meeting) ([download](2021_08_05_IntelPA_meeting.md))  
 [**:page_facing_up: 2021_08_25_IntelPA_meeting.md**](2021_08_25_IntelPA_meeting) ([download](2021_08_25_IntelPA_meeting.md))  
 [**:page_facing_up: 2021_09_16_IntelPA_meeting.md**](2021_09_16_IntelPA_meeting) ([download](2021_09_16_IntelPA_meeting.md))  
+[**:page_facing_up: 2021_10_05_IntelPA_meeting.md**](2021_10_05_IntelPA_meeting) ([download](2021_10_05_IntelPA_meeting.md))  
