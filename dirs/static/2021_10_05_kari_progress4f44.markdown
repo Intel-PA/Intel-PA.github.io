@@ -1,0 +1,15 @@
+---
+layout: page
+title: 2021_10_05_kari_progress
+permalink: /static/kari/2021_10_05_kari_progress/
+---
+
+[**<-back**](/static/kari)  
+
+# Progress report - 05/10/2021 - Kari
+
+## What I’ve done
+- Major review - related work
+
+## What I’ll do next
+- Major review - Related work, Future work.
