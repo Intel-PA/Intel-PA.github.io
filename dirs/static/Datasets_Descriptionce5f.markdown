@@ -30,9 +30,10 @@ permalink: /static/Datasets_Description/
 * Content: Disease and relevent symptoms
 * Source: [NHS website](https://www.nhs.uk/)
 
-### 4. AMBOSS Data
-* Access: [AMBOSS_disease_data.json](https://drive.google.com/file/d/1viZq98nelLf6FbiLYCNY-PldBjbmSd9y/view?usp=sharing)
-* Format: JSON file
+### 4. AMBOSS Data 
+
+* Access: [AMBOSS Data](https://drive.google.com/drive/folders/1TzIrk_p6JC0ysZ_MhBAdlSOHMifE-cb8?usp=sharing)
+* Format: The amboss knowledge data is saved as json format in AMBOSS_disease_data.json. Besides, we collect an index of professional keywords and their definations in AMBOSS_keywords_indes.txt,AMBOSS_keywords_indes.xlsx, and AMBOSS_keywords_indes.json.
 * Content: amboss.com is  website contains extensive medical knowledge resource for sudents, researchers, medical researchers in medical area.
 * Source:[https://www.amboss.com/us/knowledge/index]
 
