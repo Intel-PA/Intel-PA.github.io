@@ -1,0 +1,34 @@
+  Count Licence
+     31 MIT License                                                                         
+     16 UNKNOWN                                                                             
+     16 BSD License                                                                         
+     11 Apache Software License                                                             
+     10 GNU Library or Lesser General Public License (LGPL)                                 
+      3 GNU General Public License (GPL)                                                    
+      3 Apache Software License; BSD License                                                
+      2 Python Software Foundation License                                                  
+      2 Public Domain                                                                       
+      2 GPLv3                                                                               
+      2 gpl                                                                                 
+      2 GNU Lesser General Public License v2 or later (LGPLv2+)                             
+      2 GNU Lesser General Public License v2 (LGPLv2)                                       
+      2 GNU General Public License v3 or later (GPLv3+)                                     
+      1 Version               License                                                                             
+      1 Repoze Public License                                                               
+      1 OSI Approved ::                                                                     
+      1 Mozilla Public License 2.0 (MPL 2.0)                                                
+      1 MIT License; Python Software Foundation License                                     
+      1 LGPL 2.1                                                                            
+      1 ISC License (ISCL)                                                                  
+      1 Historical Permission Notice and Disclaimer (HPND)                                  
+      1 GPL v2 or later                                                                     
+      1 GPL-3                                                                               
+      1 GPL                                                                                 
+      1 GNU Lesser General Public License v3 (LGPLv3)                                       
+      1 GNU Lesser General Public License v2 (LGPLv2); Mozilla Public License 1.1 (MPL 1.1) 
+      1 GNU GPL                                                                             
+      1 GNU General Public License v2 (GPLv2)                                               
+      1 Freeware                                                                            
+      1 Apache License 2.0                                                                  
+      1 Academic Free License (AFL); MIT License                                            
+      1 3-Clause BSD License                                                                
