@@ -19,6 +19,7 @@ jobs:
         run: |
           python dir_builder.py minutes
           python dir_builder.py static
+          python dir_builder.py agendas
       - name: commit and push changes
         uses: actions-js/push@master
         with:
