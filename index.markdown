@@ -19,10 +19,10 @@ This is a landing page that is meant to provide an overview of the project and w
 <img src="/static/high_level_flow_diagram.png" alt="Hi-level diagram" width="100%"/>
 
 ### Tasks assigned currently:
-- Kavi: creating a simple GUI for presentation to medical professional
-- Ruibin: integrating previous work on sentiment analysis to intelPA
-- Xiaoxiao: following extra links in the AMBOSS medical knowledge library
-- Jiajun: continue "layman-izing" and help with GUI
+- Kavi: writing proposal for the dataset capture pilot to secure equipment
+- Ruibin: asking NHS how to collect data ethically according to their guidelines
+- Xiaoxiao: emailing Tony Skene to ask if we can record answers to the questions that the doctor asks
+- Jiajun: conducting a literature survey on other multimodal datasets that incorporate emotion
 
 Click [here](/static/task_assignment_table.md) for a record of previous tasks
 <img src="/static/ChatbotV1-gantt_chart.png" alt="Assigned tasks" width="100%"/>
