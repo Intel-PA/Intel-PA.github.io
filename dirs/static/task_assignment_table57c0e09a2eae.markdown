@@ -54,3 +54,13 @@ permalink: /static/task_assignment_table/
 | Ruibin | integrating previous work on sentiment analysis to intelPA |
 | Xiaoxiao | following extra links in the AMBOSS medical knowledge library  |
 | Jiajun | continue "layman-izing" and help with GUI |
+
+
+# [2021-12-08] Task Assignment
+
+| Members | Tasks |
+| :----:| :----: |
+| Kavi | writing proposal for the dataset capture pilot to secure equipment  | 
+| Ruibin | asking NHS how to collect data ethically according to their guidelines |
+| Xiaoxiao | emailing Tony Skene to ask if we can record answers to the questions that the doctor asks  |
+| Jiajun | conducting a literature survey on other multimodal datasets that incorporate emotion |
