@@ -23,3 +23,4 @@ permalink: /minutes/
 [**:page_facing_up: 2021_11_22_IntelPA_meeting.md**](2021_11_22_IntelPA_meeting) ([download](2021_11_22_IntelPA_meeting.md))  
 [**:page_facing_up: 2021_12_01_IntelPA_meeting.md**](2021_12_01_IntelPA_meeting) ([download](2021_12_01_IntelPA_meeting.md))  
 [**:page_facing_up: 2021_12_08_IntelPA_meeting.md**](2021_12_08_IntelPA_meeting) ([download](2021_12_08_IntelPA_meeting.md))  
+[**:page_facing_up: procedure of the diagnosis.jpg**](procedure of the diagnosis.jpg)  
