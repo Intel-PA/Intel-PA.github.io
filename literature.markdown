@@ -18,6 +18,18 @@ permalink: /literature/
 
 ## Jiajun
 
+### Speech Animation Methods (including Dataset) Review
+
+* Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis (https://arxiv.org/abs/2109.02081)
+
+* What comprises a good talking-head video generation?: A Survey and Benchmark (https://arxiv.org/abs/2005.03201)
+
+### Emotional Speech Animation
+
+* Audio-driven emotional video portraits (https://arxiv.org/abs/2104.07452)
+
+* Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation (https://arxiv.org/abs/2104.07995)
+
 ## Xiaoxiao
 
 ## Ruibin
