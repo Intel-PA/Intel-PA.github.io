@@ -16,7 +16,7 @@ This is a landing page that is meant to provide an overview of the project and w
 - Medical diagnosis module - Ruibin Wang
 - Natural language generation module - Xiaoxiao Liu
 - Speech generation module - Kavi Jayathunge
-<img src="/static/high_level_flow_diagram.png" alt="Hi-level diagram" width="100%"/>
+<img src="/static/updated_hi_level_flow_diagram.png" alt="Hi-level diagram" width="100%"/>
 
 ### Tasks assigned currently:
 - Kavi: writing proposal for the dataset capture pilot to secure equipment
