@@ -17,4 +17,5 @@ permalink: /static/
 [**:file_folder: licences/**](/static/licences)  
 [**:file_folder: ruibin/**](/static/ruibin)  
 [**:page_facing_up: task_assignment_table.md**](task_assignment_table) ([download](task_assignment_table.md))  
+[**:page_facing_up: updated_hi_level_flow_diagram.png**](updated_hi_level_flow_diagram.png)  
 [**:file_folder: xiaoxiao/**](/static/xiaoxiao)  
