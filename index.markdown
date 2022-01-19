@@ -12,9 +12,8 @@ This is a landing page that is meant to provide an overview of the project and w
 ### Modules and Ownership
 
 - Speech recognition module - Jiajun Huang
-- Natural language understanding system - Xiaoxiao Liu, Ruibin Wang
-- Medical diagnosis module - Ruibin Wang
-- Natural language generation module - Xiaoxiao Liu
+- Key phrase scanning system - Xiaoxiao Liu, Kari Noriy
+- Question generation system - Xiaoxiao Liu, Abdul Rehman
 - Speech generation module - Kavi Jayathunge
 <img src="/static/updated_hi_level_flow_diagram.png" alt="Hi-level diagram" width="100%"/>
 
