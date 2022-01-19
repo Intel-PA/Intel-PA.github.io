@@ -15,7 +15,7 @@ permalink: /static/ruibin/progress/[2021-10-05]-ruibin-report/
 
 2. work on the coding part of the  language understanding part.
     * give up integrating the pre-trained sentiment model with our current model, because our current model is in the form of "do you have symptom_A or symptom_B, the sentiment part is not necessary for it"
-    * we need to improve the flexibility and variety of user's input, patient say the name of symptom directly("I think I have symptom_A") or they may say "I don't have symptom_A" 
+    * we need to improve the flexibility and variety of user's input, patient say the name of symptom directly("I think I have symptom_A") or they may say "I don't have symptom_A".
 
    
 
