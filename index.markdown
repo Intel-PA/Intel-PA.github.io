@@ -25,4 +25,4 @@ This is a landing page that is meant to provide an overview of the project and w
 - Jiajun: conducting a literature survey on other multimodal datasets that incorporate emotion
 
 Click [here](/static/task_assignment_table.md) for a record of previous tasks
-<img src="/static/ChatbotV1-gantt_chart.png" alt="Assigned tasks" width="100%"/>
+<img src="/static/new_gantt_chart.png" alt="Assigned tasks" width="100%"/>
