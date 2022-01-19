@@ -56,3 +56,14 @@
 | Ruibin | asking NHS how to collect data ethically according to their guidelines |
 | Xiaoxiao | emailing Tony Skene to ask if we can record answers to the questions that the doctor asks  |
 | Jiajun | conducting a literature survey on other multimodal datasets that incorporate emotion |
+
+
+# [2021-01-18] Task Assignment
+
+| Members | Tasks |
+| :----:| :----: |
+| Kavi | creating interface for doctors and introducing facial animations | 
+| Jiajun | creating interface for doctors and introducing facial animations |
+| Xiaoxiao | getting "off-the-shelf" chatbot  working and creating internal data structure for representing chat data |
+| Rehman | creating internal data structure for representing chat data |
+| Kari | getting "off-the-shelf" chatbot  working and creating internal data structure for representing chat data |
