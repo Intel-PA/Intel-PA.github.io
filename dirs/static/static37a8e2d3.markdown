@@ -15,6 +15,7 @@ permalink: /static/
 [**:file_folder: kari/**](/static/kari)  
 [**:file_folder: kavi/**](/static/kavi)  
 [**:file_folder: licences/**](/static/licences)  
+[**:page_facing_up: new_gantt_chart.png**](new_gantt_chart.png)  
 [**:file_folder: ruibin/**](/static/ruibin)  
 [**:page_facing_up: task_assignment_table.md**](task_assignment_table) ([download](task_assignment_table.md))  
 [**:page_facing_up: updated_hi_level_flow_diagram.png**](updated_hi_level_flow_diagram.png)  
