@@ -19,10 +19,11 @@ This is a landing page that is meant to provide an overview of the project and w
 <img src="/static/updated_hi_level_flow_diagram.png" alt="Hi-level diagram" width="100%"/>
 
 ### Tasks assigned currently:
-- Kavi: writing proposal for the dataset capture pilot to secure equipment
-- Ruibin: asking NHS how to collect data ethically according to their guidelines
-- Xiaoxiao: emailing Tony Skene to ask if we can record answers to the questions that the doctor asks
-- Jiajun: conducting a literature survey on other multimodal datasets that incorporate emotion
+- Kavi: creating interface for doctors and introducing facial animations
+- Jiajun: creating interface for doctors and introducing facial animations
+- Xiaoxiao: getting "off-the-shelf" chatbot  working and creating internal data structure for representing chat data
+- Rehman: reating internal data structure for representing chat data
+- Kari: getting "off-the-shelf" chatbot  working and creating internal data structure for representing chat data
 
 Click [here](/static/task_assignment_table.md) for a record of previous tasks
 <img src="/static/new_gantt_chart.png" alt="Assigned tasks" width="100%"/>
