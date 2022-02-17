@@ -75,3 +75,13 @@ permalink: /static/task_assignment_table/
 | Xiaoxiao | getting "off-the-shelf" chatbot  working and creating internal data structure for representing chat data |
 | Rehman | creating internal data structure for representing chat data |
 | Kari | getting "off-the-shelf" chatbot  working and creating internal data structure for representing chat data |
+
+
+# [2021-02-17] Task Assignment
+
+| Members | Tasks |
+| :----:| :----: |
+| Kavi | introducing simple 2D facial animations | 
+| Jiajun | experimenting with client-side 3D facial animation, to see if this is feasible for the project |
+| Rehman | creating knowledge graph for NLP |
+| Xiaoxiao | populating knowledge graph for NLP |
