@@ -10,6 +10,8 @@ permalink: /static/
 [**:page_facing_up: Datasets_Description.md**](Datasets_Description) ([download](Datasets_Description.md))  
 [**:page_facing_up: Work_Packages_Table.xlsx**](Work_Packages_Table.xlsx)  
 [**:page_facing_up: compressed_hi_level.png**](compressed_hi_level.png)  
+[**:page_facing_up: compressed_hi_level_vsimple.png**](compressed_hi_level_vsimple.png)  
+[**:file_folder: conferences/**](/static/conferences)  
 [**:page_facing_up: high_level_flow_diagram.png**](high_level_flow_diagram.png)  
 [**:file_folder: jiajun/**](/static/jiajun)  
 [**:file_folder: kari/**](/static/kari)  
