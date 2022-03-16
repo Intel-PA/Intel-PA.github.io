@@ -4,6 +4,10 @@
 
 - Performed pilot dataset capture session and created an edited down video of the gathered data
 - Identified [several conferences](../../conferences/conferences_list.md) relevant to my area of study that I would like to attend
+- Added the following functionality to the [IntelPA webapp](intelpa.herokuapp.com):
+	- 2-d lip syncing to get closer to demonstrating what the final product might look like
+	- Report filing system to save the output of the conversation between the patient and intelpa
+
 
 ## What I'll do next
 
