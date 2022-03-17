@@ -49,5 +49,5 @@
 ## Action points
 
 * Kari to arrange a meeting with Xiaoxiao and Rehman
-* Xiaoxiao to contact Tony about next meeting with him
+* Xiaoxiao to contact Tony about next meeting with him  
 * Richard suggests the supervisors have a meeting regarding IntelPA meeting
