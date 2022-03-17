@@ -20,7 +20,6 @@ permalink: /minutes/2022_03_16_IntelPA_student_meeting/
 	* contacted candidates for voice capture, done ethics approval etc
 	* developing new model architecture
 	* looking in to a potential exchange programme in Canada, in contact with an academic there who is keen on collaborating on the intelpa project
-	* will arrange meeting with Xiaoxiao and Rehman
 
 * Kavi
 	* Performed pilot dataset capture session and created an edited down video of the gathered data
@@ -53,8 +52,10 @@ permalink: /minutes/2022_03_16_IntelPA_student_meeting/
 * New deep learing servers still not usable - secure cages arriving next month
 * Dr Julia Ivy is coming on board as an NLP expert
 * Jian Chan suggests that the PGRs submit their research to [CASA workshop](http://www.casa2022.org/workshop1.html) by 1 May
-* Richard suggests the supervisors have a meeting regarding IntelPA meeting
+
 
 ## Action points
 
+* Kari to arrange a meeting with Xiaoxiao and Rehman
 * Xiaoxiao to contact Tony about next meeting with him
+* Richard suggests the supervisors have a meeting regarding IntelPA meeting
