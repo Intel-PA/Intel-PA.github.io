@@ -20,7 +20,7 @@ permalink: /minutes/2022_03_16_IntelPA_student_meeting/
 	* contacted candidates for voice capture, done ethics approval etc
 	* developing new model architecture
 	* looking in to a potential exchange programme in Canada, in contact with an academic there who is keen on collaborating on the intelpa project
-	* will arrange meeting with x and rehman
+	* will arrange meeting with Xiaoxiao and Rehman
 
 * Kavi
 	* Performed pilot dataset capture session and created an edited down video of the gathered data
