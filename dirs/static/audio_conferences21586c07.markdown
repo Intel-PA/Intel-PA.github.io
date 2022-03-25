@@ -23,7 +23,7 @@ Cost breakdown:
 * Conference ticket: TBA
 * Visa: [31 GBP](https://www.visa.go.kr/openPage.do?LLANG=EN&MENU_ID=10103)
 * Accommodation: roughly 30 GBP/day * 4 days = 120 GBP
-* Flight tickets:  [473 GBP](https://www.skyscanner.net/transport/flights/lond/icn/220916/220923/config/13554-2209161020--32317-1-12409-2209170820|12409-2209231020--32317-1-13554-2209231705?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&rtn=1)
+* Flight tickets:  [473 GBP](https://www.skyscanner.net/transport/flights/lond/icn/220916/220923/config/13554-2209161020--32317-1-12409-2209170820\|12409-2209231020--32317-1-13554-2209231705?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&rtn=1)
 * Food/Maintenance:  [cheap meal * 3 * 4 = 60 GBP](http://hikersbay.com/prices/southkorea/incheon?lang=en)
 * Total GBP: 683 + conference ticket
 
@@ -60,6 +60,16 @@ Conference dates              June 7-12, 2023
 
 
 # International Conference on Machine Learning for Audio Signal Processing 
+
+
+## 2022 - Stockholm, Sweden (Virtual event)
+Abstracts/Full-Text Paper Submission Deadline 	  						  March 31, 2022
+Notification of Acceptance/Rejection 	  	                              April 14, 2022
+Final Paper (Camera Ready) Submission & Early Bird Registration Deadline  June 14, 2022
+Conference Dates 	  												      July 12-13, 2022
+
+[Website](https://waset.org/machine-learning-for-audio-signal-processing-conference-in-july-2022-in-stockholm)
+[Paper submission](https://waset.org/profile/submissions/papers/create/114834/8779)
 
 ## 2023 - Stockholm, Sweden
 Abstracts/Full-Text Paper Submission Deadline 	  	                      July 01, 2022  
