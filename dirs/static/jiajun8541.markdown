@@ -25,3 +25,4 @@ permalink: /static/jiajun/
 [**:page_facing_up: 2022-03-16_jiajun_progress.md**](2022-03-16_jiajun_progress) ([download](2022-03-16_jiajun_progress.md))  
 [**:page_facing_up: 2022-03-16_jiajun_progress_showcase_depth05.png**](2022-03-16_jiajun_progress_showcase_depth05.png)  
 [**:page_facing_up: 2022-03-16_jiajun_progress_showcase_rgb05.png**](2022-03-16_jiajun_progress_showcase_rgb05.png)  
+[**:page_facing_up: 2022-04-06_jiajun_progress.md**](2022-04-06_jiajun_progress) ([download](2022-04-06_jiajun_progress.md))  
