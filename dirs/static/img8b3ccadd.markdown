@@ -21,6 +21,7 @@ permalink: /static/kavi/motion_capture/img/
 [**:page_facing_up: kinoflow.jpg**](kinoflow.jpg)  
 [**:page_facing_up: ltcam.jpg**](ltcam.jpg)  
 [**:page_facing_up: markers.jpg**](markers.jpg)  
+[**:page_facing_up: mocapcams.jpg**](mocapcams.jpg)  
 [**:page_facing_up: raptor.jpg**](raptor.jpg)  
 [**:page_facing_up: signalgen.jpg**](signalgen.jpg)  
 [**:page_facing_up: zoomlens.jpg**](zoomlens.jpg)  
