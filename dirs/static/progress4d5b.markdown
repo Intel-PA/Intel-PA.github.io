@@ -23,3 +23,7 @@ permalink: /static/kavi/progress/
 [**:page_facing_up: 2021-11-17_kavi_progress.md**](2021-11-17_kavi_progress) ([download](2021-11-17_kavi_progress.md))  
 [**:page_facing_up: 2021-12-20_kavi_progress.md**](2021-12-20_kavi_progress) ([download](2021-12-20_kavi_progress.md))  
 [**:page_facing_up: 2022-03-15_kavi_progress.md**](2022-03-15_kavi_progress) ([download](2022-03-15_kavi_progress.md))  
+[**:page_facing_up: 2022-04-05_kavi_progress.md**](2022-04-05_kavi_progress) ([download](2022-04-05_kavi_progress.md))  
+[**:page_facing_up: cv.png**](cv.png)  
+[**:page_facing_up: ljs.png**](ljs.png)  
+[**:page_facing_up: tess.png**](tess.png)  
