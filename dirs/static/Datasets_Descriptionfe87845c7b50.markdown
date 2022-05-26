@@ -67,9 +67,17 @@ permalink: /static/Datasets_Description/
 * Content: Motion capture data of faces + 12 hours of video and transcribed audio recordings of conversations + labelled emotional states.  Multi-speaker.
 * Source: [IEMOCAP publication](https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf)
 
+### 2. CMU-MOSEI 
+
+* Access: http://immortal.multicomp.cs.cmu.edu/raw_datasets/ 
+* Content: Videos of multiple speakers from YouTube - emotional tagging and sentiment analysis provided.
+* Source: http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/
+
 ## Other Medical Data Resources
 
 * [nhs Wales Glossary](https://phw.nhs.wales/services-and-teams/observatory/resources/glossary/#C): A glossary and a description of the symptoms collected by nhs.wales
 
 * [EHR STAR Browser](https://ehr.wangqiru.com/): A website includes EHR literature and datasets described in the state-of-the-art (STAR) report, EHR STAR: The State-of-the-art in Interactive EHR Visualization.
+
+
 
