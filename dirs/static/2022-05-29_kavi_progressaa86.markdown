@@ -10,6 +10,7 @@ permalink: /static/kavi/progress/2022-05-29_kavi_progress/
 
 ## What I've done
 
+* Helped Jiajun change the deployment method of the Intel-PA application. It is no longer hosted on Heroku, but on a machine in the BU network.  
 * Got results from audio augmentation experiments, searching for conferences to submit to.
 * Reviewed 2 papers for CGI 2022
 * Co-authored a paper with Ruibin and submitted to CASA 2022. My contribution was to help him integrate his language model with the Intel-PA codebase.
