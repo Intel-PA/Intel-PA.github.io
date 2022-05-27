@@ -21,5 +21,6 @@ permalink: /static/kavi/progress/2022-05-29_kavi_progress/
 
 ## What I'll do next
 
+* Find a more suitable character model asset for the 3d avatar - current one is a bit too unprofessional
 * Prepare for the major review by creating a presentation and revising the material submitted in the review documentation
 * Write dataset code to process the CMU-MOSEI dataset. It is a large audiovisual dataset of around 117GB and needs preprocessing to be used as input to the vision transformer,
