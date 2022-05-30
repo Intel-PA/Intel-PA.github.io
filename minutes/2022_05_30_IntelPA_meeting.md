@@ -2,7 +2,7 @@
 
 ## Points discussed
 
-Welcoming new PhD student Huan XU and Supervisor Prof Wen Tang.
+We welcome a new PhD student **Huan XU** and Supervisor **Prof Wen Tang**.
 
 ## General updated:
 
