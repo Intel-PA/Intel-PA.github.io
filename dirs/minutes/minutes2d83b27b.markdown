@@ -29,4 +29,6 @@ permalink: /minutes/
 [**:page_facing_up: 2022_01_18_IntelPA_student_meeting.md**](2022_01_18_IntelPA_student_meeting) ([download](2022_01_18_IntelPA_student_meeting.md))  
 [**:page_facing_up: 2022_03_16_IntelPA_student_meeting.md**](2022_03_16_IntelPA_student_meeting) ([download](2022_03_16_IntelPA_student_meeting.md))  
 [**:page_facing_up: 2022_04_06_IntelPA_meeting.md**](2022_04_06_IntelPA_meeting) ([download](2022_04_06_IntelPA_meeting.md))  
+[**:page_facing_up: 2022_05_30_IntelPA_meeting.md**](2022_05_30_IntelPA_meeting) ([download](2022_05_30_IntelPA_meeting.md))  
+[**:page_facing_up: Intel-PA_discussion_paper.pdf**](Intel-PA_discussion_paper.pdf)  
 [**:page_facing_up: procedure of the diagnosis.png**](procedure of the diagnosis.png)  
