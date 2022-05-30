@@ -55,7 +55,7 @@ Server: IT-Services has finally installed the two intel-pa servers in W101. Kavi
 - The student should better utilise their 30% research time in intel-pa
 - The tree structure aims to restrict the domain this model aims to solve.
 
-**Note:** We do not want this project to simply be a product for Dr Tony Skene, but something that can expand to other areas.
+**Note:** We do not want this project to simply be a product for Dr Tony Skene, but something that can expand into other fields.
 
 **Student Feedback on the idea presented by Prof Zhang:**
 The student widely agrees that this structure is good, but the graph model needs to be more explicit. Furthermore, we must make sure we contextualise this approach.
