@@ -26,5 +26,6 @@ permalink: /static/kavi/progress/
 [**:page_facing_up: 2022-04-05_kavi_progress.md**](2022-04-05_kavi_progress) ([download](2022-04-05_kavi_progress.md))  
 [**:page_facing_up: 2022-05-29_kavi_progress.md**](2022-05-29_kavi_progress) ([download](2022-05-29_kavi_progress.md))  
 [**:page_facing_up: cv.png**](cv.png)  
+[**:page_facing_up: kavi_individual_research.md**](kavi_individual_research) ([download](kavi_individual_research.md))  
 [**:page_facing_up: ljs.png**](ljs.png)  
 [**:page_facing_up: tess.png**](tess.png)  
