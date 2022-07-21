@@ -26,3 +26,6 @@ permalink: /static/jiajun/
 [**:page_facing_up: 2022-03-16_jiajun_progress_showcase_depth05.png**](2022-03-16_jiajun_progress_showcase_depth05.png)  
 [**:page_facing_up: 2022-03-16_jiajun_progress_showcase_rgb05.png**](2022-03-16_jiajun_progress_showcase_rgb05.png)  
 [**:page_facing_up: 2022-04-06_jiajun_progress.md**](2022-04-06_jiajun_progress) ([download](2022-04-06_jiajun_progress.md))  
+[**:page_facing_up: 2022-05-30-00050000_0_38_sphere_trace.png**](2022-05-30-00050000_0_38_sphere_trace.png)  
+[**:page_facing_up: 2022-05-30_00050000_8_volume_rendering.png**](2022-05-30_00050000_8_volume_rendering.png)  
+[**:page_facing_up: 2022-05-30_jiajun_progress.md**](2022-05-30_jiajun_progress) ([download](2022-05-30_jiajun_progress.md))  
