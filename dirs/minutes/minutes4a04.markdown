@@ -31,5 +31,6 @@ permalink: /minutes/
 [**:page_facing_up: 2022_04_06_IntelPA_meeting.md**](2022_04_06_IntelPA_meeting) ([download](2022_04_06_IntelPA_meeting.md))  
 [**:page_facing_up: 2022_05_30_IntelPA_meeting.md**](2022_05_30_IntelPA_meeting) ([download](2022_05_30_IntelPA_meeting.md))  
 [**:page_facing_up: 2022_08_25_NLP_progress_meeting.md**](2022_08_25_NLP_progress_meeting) ([download](2022_08_25_NLP_progress_meeting.md))  
+[**:page_facing_up: 2022_09_05_NLP_progress_meeting.md**](2022_09_05_NLP_progress_meeting) ([download](2022_09_05_NLP_progress_meeting.md))  
 [**:page_facing_up: Intel-PA_discussion_paper.pdf**](Intel-PA_discussion_paper.pdf)  
 [**:page_facing_up: procedure of the diagnosis.png**](procedure of the diagnosis.png)  
