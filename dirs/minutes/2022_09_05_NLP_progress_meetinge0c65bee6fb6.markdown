@@ -14,7 +14,7 @@ Supervisors: Jian Jun Zhang, Xiaosong Yang, Jian Chang
 
 ## Discussion Points
 
-- Rehman demoed the current bot and it's design platform. [2022-09-05-bot_design_](../static/arehman/2022-09-05-bot_design_.png).
+- Rehman demoed the current bot and it's design platform. [2022-09-05-bot_design](../static/arehman/2022-09-05-bot_design.png).
 
 - Current version of the bot is based on the dialogue decision tree that was provided by Dr. Tony.
 - Bot can extract some of the critical information for decision nodes such as names, age, yes or no affirmation, time duration, left or right and family relations.
