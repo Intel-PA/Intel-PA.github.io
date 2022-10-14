@@ -51,22 +51,22 @@ Launch your IDE on your local machine. Assuming you are using Pycharm (this shou
 IDEs such as VSCode as well):
 
 1. Locate the interpreter menu in the bottom right corner of the screen:   
-   <img alt="Interpreter selection" src="interpreter.png" width="200"/>
+   <img alt="Interpreter selection" src="interpreter.png" width="800"/>
 2. Navigate to the SSH interpreter tab and type in the name of the server you wish to connect to. 
    In this example, we use `intelpa-2.student.bournemouth.ac.uk`. Paste in the port number from the 
    previous script and set the Username as `root`.   
-   <img src="./ssh_int.png" width="200">
+   <img src="./ssh_int.png" width="800">
 3. Change the paths used by your IDE on the remote machine. By default, the python path is set to `/bin/python`,
    which is not what we want (We're using Miniconda). Change it to `/root/miniconda/bin/python3.9`. We also need to 
    change the mapping of the project root on your local machine to the one on the remote. Currently, it should be
    mapping to the `/tmp/` directory, which is not ideal (this directory is regulary emptied by Linux). Create a 
    directory for your project in the `/home/` directory and change the path mapping to it:  
    <p float="left">
-      <img src="./add_int_default.png" width="200"/> 
-      <img src="./set_proj_root.png" width="200"/>
+      <img src="./add_int_default.png" width="800"/> 
+      <img src="./set_proj_root.png" width="800"/>
    </p>
 4. Please make sure your settings look like this before hitting finish.  
-   <img src="./interpreter_final.png" width="200">
+   <img src="./interpreter_final.png" width="800">
 5. If all goes well, you should see the following message in the bottom left of your screen informing you that 
    your files were successfully transferred:   
-   <img src="./successful_transfer.png" width="200"/>
+   <img src="./successful_transfer.png" width="800"/>
