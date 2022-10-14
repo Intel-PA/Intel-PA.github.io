@@ -70,8 +70,8 @@ IDEs such as VSCode as well):
    mapping to the `/tmp/` directory, which is not ideal (this directory is regulary emptied by Linux). Create a 
    directory for your project in the `/home/` directory and change the path mapping to it:  
    <p float="left">
-      <img src="./add_int_default.png" width="800"/> 
-      <img src="./set_proj_root.png" width="800"/>
+      <img src="./add_int_default.png" width="600"/> 
+      <img src="./set_proj_root.png" width="400"/>
    </p>
 4. Please make sure your settings look like this before hitting finish.  
    <img src="./interpreter_final.png" width="800">
