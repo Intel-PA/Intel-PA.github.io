@@ -78,3 +78,9 @@ IDEs such as VSCode as well):
 5. If all goes well, you should see the following message in the bottom left of your screen informing you that 
    your files were successfully transferred:   
    <img src="./successful_transfer.png" width="800"/>
+6. Hit `Ctrl + Shift + A` to open the Actions menu and select `Start SSH Session`. 
+   <img src="./start_ssh.png" width="800"/>
+7. From the prompt that pops up, select the host (begins with `root@` and ends with the port number you copied in)
+   <img src="./select_host.png" width="800"/>
+8. You should now be logged in to the container via Pycharm's terminal
+   <img src="./final.png" width="800"/>
