@@ -13,6 +13,7 @@ permalink: /static/
 [**:page_facing_up: compressed_hi_level.png**](compressed_hi_level.png)  
 [**:page_facing_up: compressed_hi_level_vsimple.png**](compressed_hi_level_vsimple.png)  
 [**:file_folder: conferences/**](/static/conferences)  
+[**:file_folder: docs/**](/static/docs)  
 [**:page_facing_up: high_level_flow_diagram.png**](high_level_flow_diagram.png)  
 [**:page_facing_up: intelpa_user_manual.md**](intelpa_user_manual) ([download](intelpa_user_manual.md))  
 [**:file_folder: jiajun/**](/static/jiajun)  
