@@ -7,6 +7,7 @@ permalink: /static/docs/
 # Directory listing for /static/docs
 [**<-back**](/static)  
 [**:page_facing_up: add_int_default.png**](add_int_default.png)  
+[**:page_facing_up: cluster_guide_gui.md**](cluster_guide_gui) ([download](cluster_guide_gui.md))  
 [**:page_facing_up: final.png**](final.png)  
 [**:page_facing_up: interpreter.png**](interpreter.png)  
 [**:page_facing_up: interpreter_final.png**](interpreter_final.png)  
