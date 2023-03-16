@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 15_03_2023_IntelPA_meeting
-permalink: /minutes/15_03_2023_IntelPA_meeting/
+title: 2023_03_15_IntelPA_meeting
+permalink: /minutes/2023_03_15_IntelPA_meeting/
 ---
 
 [**<-back**](/minutes)  
