@@ -37,6 +37,7 @@ user@intelpa-2:~$ cd ~/intelpa-containers
 user@intelpa-2:~$ podman build -f Dockerfile.cli-workspace -t cli-workspace .
 user@intelpa-2:~$ ./start_cli_server.sh
 ```
+
 If all goes well, you should see something like this:
 ```console
 Checking for free network ports in range 1024 to 49151...
@@ -45,6 +46,13 @@ Found free port, copy this and use it to configure your IDE's SSH interpreter: 1
 ```
 Keep a note of the port number, you'll need it for the next step.
 
+
+*NOTE:* Annoyingly, by default the system seems to kill the Podman process if the shell
+session it was started in dies (for e.g. if you logout of intelpa-2). To prevent
+this behaviour:
+```console
+user@intelpa-2:~$ loginctl enable-linger
+```
 
 ## Connecting your editor to the server
 Launch your IDE on your local machine. Assuming you are using Pycharm (this should be possible on other 
