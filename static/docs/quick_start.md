@@ -1,13 +1,16 @@
 # IntelPA cluster quick-start
 
 ## Setting up SSH server
-1. Passwords are disabled on the server, so you need to log in using your SSH publickey. To generate this:
+### 1
+Passwords are disabled on the server, so you need to log in using your SSH publickey. To generate this:
 ```console
 user@local:~$ ssh-keygen
 ```
-2. Once your publickey is generated copy it from `/home/user/.ssh/id_rsa.pub` and send it to either Kavi(kjayathunge@bournemouth.ac.uk) or Jiajun(jhuang@bournemouth.ac.uk) so you can be added as a user on the cluster. Make sure it is the file ending in `.pub`, don't give away your private key (`id_rsa`)!
+### 2
+Once your publickey is generated copy it from `/home/user/.ssh/id_rsa.pub` and send it to either Kavi(kjayathunge@bournemouth.ac.uk) or Jiajun(jhuang@bournemouth.ac.uk) so you can be added as a user on the cluster. Make sure it is the file ending in `.pub`, don't give away your private key (`id_rsa`)!
 
-3. Once the account is created, you should be able to login: 
+### 3
+Once the account is created, you should be able to login: 
 ```console
 user@local:~$ ssh user@intelpa-2.student.bournemouth.ac.uk
 Welcome to Ubuntu 20.04.4 LTS (GNU/Linux 5.14.0-1051-oem x86_64)
@@ -30,7 +33,8 @@ Last login: Thu Oct 13 13:46:20 2022 from 10.126.53.243
 ```
 This banner message means you've successfully logged on to the server. 
 
-4. To set up the SSH 
+### 4
+To set up the SSH 
 container that you'll be connecting to your IDE:
 ```console
 user@intelpa-2:~$ cp -r /mnt/intelpa-1/intelpa-containers ~ 
@@ -42,7 +46,8 @@ user@intelpa-2:~$ ./start_cli_server.sh
 Note that the `intelpa-containers` directory is only available at `/mnt/intelpa-1`,
 please do not change this.
 
-5. If all goes well, you should see something like this:
+### 5
+If all goes well, you should see something like this:
 ```console
 Checking for free network ports in range 1024 to 49151...
 This may take a while in (very) rare cases.
