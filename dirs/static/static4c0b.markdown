@@ -15,6 +15,7 @@ permalink: /static/
 [**:page_facing_up: compressed_hi_level_vsimple.png**](compressed_hi_level_vsimple.png)  
 [**:file_folder: conferences/**](/static/conferences)  
 [**:file_folder: docs/**](/static/docs)  
+[**:page_facing_up: func_spec.png**](func_spec.png)  
 [**:page_facing_up: high_level_flow_diagram.png**](high_level_flow_diagram.png)  
 [**:file_folder: jiajun/**](/static/jiajun)  
 [**:file_folder: kari/**](/static/kari)  
