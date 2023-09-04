@@ -56,6 +56,7 @@ Found free port, copy this and use it to configure your IDE's SSH interpreter: 1
 Keep a note of the port number, you'll need it for the next step.
 
 
+### 6
 *NOTE:* Annoyingly, by default the system seems to kill the Podman process if the shell
 session it was started in dies (for e.g. if you logout of intelpa-2). To prevent
 this behaviour:
@@ -63,6 +64,16 @@ this behaviour:
 user@intelpa-2:~$ loginctl enable-linger
 ```
 
+*NOTE:* Podman by default generates (sometimes very large) container storage files and saves them
+in the root partition of the machine. This frequently leads to storage issues
+and can slow down the machines. Please follow these steps to change the default
+directory for storing these files to the much larger dedicated data storage
+disks:
+```console
+user@intelpa-2:~$ cp /mnt/intelpa-2/setup_podman_storage.sh ~
+user@intelpa-2:~$ chmod +x ~/setup_podman_storage.sh
+user@intelpa-2:~$ ./setup_podman_storage.sh
+```
 ## Connecting your editor to the server
 Launch your IDE on your local machine. Assuming you are using Pycharm (this should be possible on other 
 IDEs such as VSCode as well):
