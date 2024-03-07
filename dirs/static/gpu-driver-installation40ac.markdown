@@ -32,8 +32,10 @@ sudo reboot
 ```
 
 # 4. To install nvidia container toolkit:
-installation: `https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html`
-podman setup: `https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/cdi-support.html`
+Follow all steps in `https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html`
+
+# 5. To configure podman:
+Follow all steps in `https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/cdi-support.html`  
 
 Add the following to  `/etc/nvidia-container-runtime/config.toml`:
 ```bash
