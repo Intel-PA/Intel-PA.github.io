@@ -56,7 +56,7 @@ Found free port, copy this and use it to configure your IDE's SSH interpreter: 1
 Keep a note of the port number, you'll need it for the next step.
 
 
-### 1.6
+<!-- ### 1.6
 *NOTE:* Annoyingly, by default the system seems to kill the Podman process if the shell
 session it was started in dies (for e.g. if you logout of intelpa-2). To prevent
 this behaviour:
@@ -73,7 +73,7 @@ disks:
 user@intelpa-2:~$ cp /mnt/intelpa-2/setup_podman_storage.sh ~
 user@intelpa-2:~$ chmod +x ~/setup_podman_storage.sh
 user@intelpa-2:~$ ./setup_podman_storage.sh
-```
+``` -->
 ## 2 Connecting your editor to the server
 ### 2.1 Instructions for VScode
 Launch VScode on your local machine and follow these instructions:
