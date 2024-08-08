@@ -21,6 +21,13 @@ permalink: /static/docs/node-install-steps/
 	* sudo apt-get update
 	* sudo apt-get -y upgrade
 	* sudo apt-get -y install podman
+	* enable insecure image pulls by editing `etc/containers/registries.conf`:
+		```
+		unqualified-search-registries = ["intelpa-ops", "docker.io", "quay.io"]
+		[[registry]]
+		location = "intelpa-ops:5000"
+		insecure = true
+		```
 7. Add the following to `/etc/nvidia-container-runtime/config.toml` :
 	[nvidia-container-cli]
 	no-cgroups = true
