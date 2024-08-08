@@ -31,7 +31,7 @@ $ podman run --rm --gpus all nvidia/cuda:11.0.3-base-ubuntu20.04 nvidia-smi
 ## GUI applications
 The machines have been set up with a VNC(virtual network computing) server, which allows you to
 forward graphics over network, which is useful for running any GUI applications such as IDEs and
-visaulising graphical output from your work.
+visualising graphical output from your work.
 
 
 A minimal example of how to set this up is as follows, assuming you have the following directory
