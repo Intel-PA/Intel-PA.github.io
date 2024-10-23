@@ -40,8 +40,8 @@ container that you'll be connecting to your IDE:
 user@intelpa-2:~$ cp -r /mnt/intelpa-1/intelpa-containers ~ 
 user@intelpa-2:~$ chmod -R 700 ~/intelpa-containers
 user@intelpa-2:~$ cd ~/intelpa-containers
-user@intelpa-2:~$ podman build -f Dockerfile.cli-workspace -t cli-workspace .
-user@intelpa-2:~$ ./start_cli_server.sh
+user@intelpa-2:~$ podman build -f Dockerfile.cli-workspace -t test-cli-workspace .
+user@intelpa-2:~$ ./start_cli_server.sh test
 ```
 Note that the `intelpa-containers` directory is only available at `/mnt/intelpa-1`,
 please do not change this.
