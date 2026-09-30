@@ -37,6 +37,7 @@ This banner message means you've successfully logged on to the server.
 To set up the SSH 
 container that you'll be connecting to your IDE:
 ```console
+user@intelpa-2:~$ podman load -i /mnt/intelpa-1/intelpa-images/cuda11.8.0-cudnn8-devel-ubuntu22.04.tar 
 user@intelpa-2:~$ cp -r /mnt/intelpa-1/intelpa-containers ~ 
 user@intelpa-2:~$ chmod -R 700 ~/intelpa-containers
 user@intelpa-2:~$ cd ~/intelpa-containers
